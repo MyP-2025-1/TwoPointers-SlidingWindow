@@ -1,1 +1,1 @@
-# TwoPointers-SlidingWindow
+# Two Pointers vs SlidingWindow
